@@ -1,0 +1,181 @@
+feedback_id,created_at,channel,customer_id,review_text,rating
+FB-1001,2026-01-02 09:15:00,App Review,CUST-48291,The checkout screen keeps spinning when I pay through UPI.,1
+FB-1002,2026-01-02 11:30:00,Support,CUST-19283,Takes almost a full minute for the payment page to load on Android.,2
+FB-1003,2026-01-03 14:22:00,Survey,CUST-58392,Extremely slow checkout flow. I almost abandoned my cart twice today.,1
+FB-1004,2026-01-03 16:45:00,App Review,CUST-92813,Login works fine but clicking proceed to checkout freezes the app.,2
+FB-1005,2026-01-04 10:10:00,Support,CUST-38192,Payment screen hangs forever after entering delivery address.,1
+FB-1006,2026-01-04 12:05:00,NPS,CUST-49102,Great selection of products and fast delivery overall!,5
+FB-1007,2026-01-05 08:30:00,App Review,CUST-29183,Checkout load time is frustratingly slow during peak hours.,2
+FB-1008,2026-01-05 15:20:00,Support,CUST-74839,Cart page hangs for 10 seconds before redirecting to payment.,2
+FB-1009,2026-01-06 18:40:00,Survey,CUST-83920,Login authentication via OTP is smooth.,4
+FB-1010,2026-01-06 20:15:00,App Review,CUST-10293,App crash when trying to edit item count in checkout.,1
+FB-1011,2026-01-07 09:50:00,NPS,CUST-58293,Customer support team resolved my query quickly.,5
+FB-1012,2026-01-07 14:10:00,Support,CUST-93821,Mobile checkout experience is laggy on iOS.,2
+FB-1013,2026-01-08 11:25:00,App Review,CUST-47382,UI looks okay but checkout button unresponsive on mobile browser.,2
+FB-1014,2026-01-08 17:30:00,Survey,CUST-29381,Clean visual design and easy navigation.,5
+FB-1015,2026-01-09 10:45:00,Support,CUST-84920,The checkout screen keeps spinning when I pay through UPI.,1
+FB-1016,2026-01-09 13:15:00,App Review,CUST-39201,Extremely slow checkout flow. I almost abandoned my cart twice today.,1
+FB-1017,2026-01-10 16:00:00,NPS,CUST-10492,Password reset link was delivered instantly.,5
+FB-1018,2026-01-10 19:20:00,Support,CUST-59302,Payment screen hangs forever after entering delivery address.,1
+FB-1019,2026-01-11 08:50:00,Survey,CUST-69302,App notification settings are easy to customize.,4
+FB-1020,2026-01-11 14:40:00,App Review,CUST-40392,Takes almost a full minute for the payment page to load on Android.,2
+FB-1021,2026-01-12 10:15:00,Support,CUST-20493,Checkout load time is frustratingly slow during peak hours.,2
+FB-1022,2026-01-12 15:30:00,NPS,CUST-70392,Pricing is reasonable compared to competitors.,4
+FB-1023,2026-01-13 11:10:00,App Review,CUST-39201,The checkout screen keeps spinning when I pay through UPI.,1
+FB-1024,2026-01-13 16:25:00,Support,CUST-10923,Cart page hangs for 10 seconds before redirecting to payment.,2
+FB-1025,2026-01-14 09:30:00,Survey,CUST-59301,Great selection of products and fast delivery overall!,5
+FB-1026,2026-01-14 13:45:00,App Review,CUST-80392,Login works fine but clicking proceed to checkout freezes the app.,2
+FB-1027,2026-01-15 10:20:00,Support,CUST-49201,Payment screen hangs forever after entering delivery address.,1
+FB-1028,2026-01-15 17:15:00,NPS,CUST-29381,Clean visual design and easy navigation.,5
+FB-1029,2026-01-16 11:00:00,App Review,CUST-69302,Extremely slow checkout flow. I almost abandoned my cart twice today.,1
+FB-1030,2026-01-16 15:50:00,Support,CUST-10492,Mobile checkout experience is laggy on iOS.,2
+FB-1031,2026-01-17 09:10:00,Survey,CUST-39201,"App is generally decent, but search filter could use improvement.",3
+FB-1032,2026-01-17 14:35:00,App Review,CUST-80392,Checkout load time is frustratingly slow during peak hours.,2
+FB-1033,2026-01-18 10:45:00,Support,CUST-59301,The checkout screen keeps spinning when I pay through UPI.,1
+FB-1034,2026-01-18 16:20:00,NPS,CUST-20493,Customer support team resolved my query quickly.,5
+FB-1035,2026-01-19 11:30:00,App Review,CUST-49201,Takes almost a full minute for the payment page to load on Android.,2
+FB-1036,2026-01-19 15:10:00,Support,CUST-70392,Cart page hangs for 10 seconds before redirecting to payment.,2
+FB-1037,2026-01-20 09:25:00,Survey,CUST-10923,Password reset link was delivered instantly.,5
+FB-1038,2026-01-20 14:40:00,App Review,CUST-39201,Payment screen hangs forever after entering delivery address.,1
+FB-1039,2026-01-21 10:15:00,Support,CUST-80392,Extremely slow checkout flow. I almost abandoned my cart twice today.,1
+FB-1040,2026-01-21 16:30:00,NPS,CUST-59301,Great selection of products and fast delivery overall!,5
+FB-1041,2026-01-22 11:05:00,App Review,CUST-20493,UI looks okay but checkout button unresponsive on mobile browser.,2
+FB-1042,2026-01-22 15:20:00,Support,CUST-49201,Checkout load time is frustratingly slow during peak hours.,2
+FB-1043,2026-01-23 09:40:00,Survey,CUST-70392,Login authentication via OTP is smooth.,4
+FB-1044,2026-01-23 13:55:00,App Review,CUST-10923,The checkout screen keeps spinning when I pay through UPI.,1
+FB-1045,2026-01-24 10:30:00,Support,CUST-39201,Takes almost a full minute for the payment page to load on Android.,2
+FB-1046,2026-01-24 16:15:00,NPS,CUST-80392,Pricing is reasonable compared to competitors.,4
+FB-1047,2026-01-25 11:20:00,App Review,CUST-59301,Payment screen hangs forever after entering delivery address.,1
+FB-1048,2026-01-25 15:45:00,Support,CUST-20493,App crash when trying to edit item count in checkout.,1
+FB-1049,2026-01-26 09:15:00,Survey,CUST-49201,Clean visual design and easy navigation.,5
+FB-1050,2026-01-26 14:10:00,App Review,CUST-70392,Mobile checkout experience is laggy on iOS.,2
+FB-1051,2026-01-27 10:50:00,Support,CUST-10923,Extremely slow checkout flow. I almost abandoned my cart twice today.,1
+FB-1052,2026-01-27 16:35:00,NPS,CUST-39201,Customer support team resolved my query quickly.,5
+FB-1053,2026-01-28 11:15:00,App Review,CUST-80392,Checkout load time is frustratingly slow during peak hours.,2
+FB-1054,2026-01-28 15:00:00,Support,CUST-59301,The checkout screen keeps spinning when I pay through UPI.,1
+FB-1055,2026-01-29 09:35:00,Survey,CUST-20493,App notification settings are easy to customize.,4
+FB-1056,2026-01-29 14:25:00,App Review,CUST-49201,Cart page hangs for 10 seconds before redirecting to payment.,2
+FB-1057,2026-01-30 10:40:00,Support,CUST-70392,Payment screen hangs forever after entering delivery address.,1
+FB-1058,2026-01-30 16:10:00,NPS,CUST-10923,Great selection of products and fast delivery overall!,5
+FB-1059,2026-01-31 11:05:00,App Review,CUST-39201,Takes almost a full minute for the payment page to load on Android.,2
+FB-1060,2026-01-31 15:30:00,Support,CUST-80392,Login works fine but clicking proceed to checkout freezes the app.,2
+FB-1061,2026-02-01 09:20:00,Survey,CUST-59301,Password reset link was delivered instantly.,5
+FB-1062,2026-02-01 14:15:00,App Review,CUST-20493,Extremely slow checkout flow. I almost abandoned my cart twice today.,1
+FB-1063,2026-02-02 10:35:00,Support,CUST-49201,Checkout load time is frustratingly slow during peak hours.,2
+FB-1064,2026-02-02 16:00:00,NPS,CUST-70392,Pricing is reasonable compared to competitors.,4
+FB-1065,2026-02-03 11:10:00,App Review,CUST-10923,The checkout screen keeps spinning when I pay through UPI.,1
+FB-1066,2026-02-03 15:40:00,Support,CUST-39201,Payment screen hangs forever after entering delivery address.,1
+FB-1067,2026-02-04 09:45:00,Survey,CUST-80392,Login authentication via OTP is smooth.,4
+FB-1068,2026-02-04 14:30:00,App Review,CUST-59301,Mobile checkout experience is laggy on iOS.,2
+FB-1069,2026-02-05 10:15:00,Support,CUST-20493,Cart page hangs for 10 seconds before redirecting to payment.,2
+FB-1070,2026-02-05 16:20:00,NPS,CUST-49201,Clean visual design and easy navigation.,5
+FB-1071,2026-02-06 11:25:00,App Review,CUST-70392,Takes almost a full minute for the payment page to load on Android.,2
+FB-1072,2026-02-06 15:10:00,Support,CUST-10923,Extremely slow checkout flow. I almost abandoned my cart twice today.,1
+FB-1073,2026-02-07 09:30:00,Survey,CUST-39201,Customer support team resolved my query quickly.,5
+FB-1074,2026-02-07 14:05:00,App Review,CUST-80392,The checkout screen keeps spinning when I pay through UPI.,1
+FB-1075,2026-02-08 10:40:00,Support,CUST-59301,Checkout load time is frustratingly slow during peak hours.,2
+FB-1076,2026-02-08 16:15:00,NPS,CUST-20493,Great selection of products and fast delivery overall!,5
+FB-1077,2026-02-09 11:00:00,App Review,CUST-49201,Payment screen hangs forever after entering delivery address.,1
+FB-1078,2026-02-09 15:35:00,Support,CUST-70392,UI looks okay but checkout button unresponsive on mobile browser.,2
+FB-1079,2026-02-10 09:15:00,Survey,CUST-10923,App notification settings are easy to customize.,4
+FB-1080,2026-02-10 14:45:00,App Review,CUST-39201,Takes almost a full minute for the payment page to load on Android.,2
+FB-1081,2026-02-11 10:20:00,Support,CUST-80392,Extremely slow checkout flow. I almost abandoned my cart twice today.,1
+FB-1082,2026-02-11 16:30:00,NPS,CUST-59301,Password reset link was delivered instantly.,5
+FB-1083,2026-02-12 11:15:00,App Review,CUST-20493,The checkout screen keeps spinning when I pay through UPI.,1
+FB-1084,2026-02-12 15:05:00,Support,CUST-49201,Cart page hangs for 10 seconds before redirecting to payment.,2
+FB-1085,2026-02-13 09:40:00,Survey,CUST-70392,Pricing is reasonable compared to competitors.,4
+FB-1086,2026-02-13 14:20:00,App Review,CUST-10923,Payment screen hangs forever after entering delivery address.,1
+FB-1087,2026-02-14 10:35:00,Support,CUST-39201,Checkout load time is frustratingly slow during peak hours.,2
+FB-1088,2026-02-14 16:10:00,NPS,CUST-80392,Clean visual design and easy navigation.,5
+FB-1089,2026-02-15 09:00:00,App Review,CUST-11001,The redesigned checkout is much faster on my phone.,5
+FB-1090,2026-02-15 11:30:00,Support,CUST-11002,Checkout loading speed improved immensely after recent update!,5
+FB-1091,2026-02-15 14:45:00,Survey,CUST-11003,Love the new streamlined payment UI. Very fast.,5
+FB-1092,2026-02-16 10:15:00,App Review,CUST-11004,Smooth checkout experience today. Much better than last month.,4
+FB-1093,2026-02-16 15:20:00,NPS,CUST-11005,Quick checkout flow now, saved me lots of time.,5
+FB-1094,2026-02-17 09:40:00,Support,CUST-11006,The checkout redesign is super smooth and intuitive.,4
+FB-1095,2026-02-17 14:10:00,App Review,CUST-11007,Super quick payment process, nice upgrade!,5
+FB-1096,2026-02-18 10:50:00,Survey,CUST-11008,The redesigned checkout is much faster on my phone.,5
+FB-1097,2026-02-18 16:00:00,NPS,CUST-11009,Great selection of products and fast delivery overall!,5
+FB-1098,2026-02-19 11:15:00,App Review,CUST-11010,Checkout loading speed improved immensely after recent update!,5
+FB-1099,2026-02-19 15:30:00,Support,CUST-11011,Login authentication via OTP is smooth.,4
+FB-1100,2026-02-20 09:25:00,Survey,CUST-11012,Love the new streamlined payment UI. Very fast.,5
+FB-1101,2026-02-20 14:40:00,App Review,CUST-11013,Smooth checkout experience today. Much better than last month.,4
+FB-1102,2026-02-21 10:30:00,Support,CUST-11014,Pricing is reasonable compared to competitors.,4
+FB-1103,2026-02-21 16:15:00,NPS,CUST-11015,Quick checkout flow now, saved me lots of time.,5
+FB-1104,2026-02-22 11:20:00,App Review,CUST-11016,The checkout redesign is super smooth and intuitive.,4
+FB-1105,2026-02-22 15:45:00,Support,CUST-11017,Customer support team resolved my query quickly.,5
+FB-1106,2026-02-23 09:15:00,Survey,CUST-11018,Super quick payment process, nice upgrade!,5
+FB-1107,2026-02-23 14:10:00,App Review,CUST-11019,The redesigned checkout is much faster on my phone.,5
+FB-1108,2026-02-24 10:45:00,Support,CUST-11020,App notification settings are easy to customize.,4
+FB-1109,2026-02-24 16:25:00,NPS,CUST-11021,Checkout loading speed improved immensely after recent update!,5
+FB-1110,2026-02-25 11:10:00,App Review,CUST-11022,Love the new streamlined payment UI. Very fast.,5
+FB-1111,2026-02-25 15:35:00,Support,CUST-11023,Smooth checkout experience today. Much better than last month.,4
+FB-1112,2026-02-26 09:30:00,Survey,CUST-11024,Password reset link was delivered instantly.,5
+FB-1113,2026-02-26 14:15:00,App Review,CUST-11025,Quick checkout flow now, saved me lots of time.,5
+FB-1114,2026-02-27 10:20:00,Support,CUST-11026,Clean visual design and easy navigation.,5
+FB-1115,2026-02-27 16:05:00,NPS,CUST-11027,Super quick payment process, nice upgrade!,5
+FB-1116,2026-02-28 11:00:00,App Review,CUST-11028,The checkout redesign is super smooth and intuitive.,4
+FB-1117,2026-02-28 15:40:00,Support,CUST-11029,Great selection of products and fast delivery overall!,5
+FB-1118,2026-03-01 09:10:00,App Review,CUST-12001,UPI payment keeps failing again and again.,1
+FB-1119,2026-03-01 11:45:00,Support,CUST-12002,After the latest update, the payment succeeds but the order page doesn't refresh.,1
+FB-1120,2026-03-01 14:30:00,Survey,CUST-12003,I've had two payment failures this week even though my bank approved the transaction.,1
+FB-1121,2026-03-02 10:15:00,App Review,CUST-12004,Payment failed error 502 when using HDFC netbanking.,1
+FB-1122,2026-03-02 15:20:00,Support,CUST-12005,Credit card transaction timed out during payment verification step.,2
+FB-1123,2026-03-03 09:35:00,NPS,CUST-12006,Double debited because payment failed screen showed retry.,1
+FB-1124,2026-03-03 14:10:00,App Review,CUST-12007,GPay transaction failed twice in a row today.,1
+FB-1125,2026-03-04 10:45:00,Support,CUST-12008,Money deducted from bank but order status shows payment pending.,1
+FB-1126,2026-03-04 16:00:00,Survey,CUST-12009,The redesigned checkout is much faster on my phone.,5
+FB-1127,2026-03-05 09:20:00,App Review,CUST-12010,Failed payment gateway popup pops up randomly on final confirmation.,2
+FB-1128,2026-03-05 13:50:00,Support,CUST-12011,UPI payment keeps failing again and again.,1
+FB-1129,2026-03-06 10:30:00,NPS,CUST-12012,Clean visual design and easy navigation.,5
+FB-1130,2026-03-06 15:15:00,App Review,CUST-12013,After the latest update, the payment succeeds but the order page doesn't refresh.,1
+FB-1131,2026-03-07 09:40:00,Support,CUST-12014,I've had two payment failures this week even though my bank approved the transaction.,1
+FB-1132,2026-03-07 14:25:00,Survey,CUST-12015,Payment failed error 502 when using HDFC netbanking.,1
+FB-1133,2026-03-08 11:05:00,App Review,CUST-12016,Credit card transaction timed out during payment verification step.,2
+FB-1134,2026-03-08 16:30:00,Support,CUST-12017,Double debited because payment failed screen showed retry.,1
+FB-1135,2026-03-09 09:15:00,NPS,CUST-12018,Love the new streamlined payment UI. Very fast.,5
+FB-1136,2026-03-09 13:40:00,App Review,CUST-12019,GPay transaction failed twice in a row today.,1
+FB-1137,2026-03-10 10:25:00,Support,CUST-12020,Money deducted from bank but order status shows payment pending.,1
+FB-1138,2026-03-10 15:50:00,Survey,CUST-12021,Failed payment gateway popup pops up randomly on final confirmation.,2
+FB-1139,2026-03-11 09:30:00,App Review,CUST-12022,UPI payment keeps failing again and again.,1
+FB-1140,2026-03-11 14:15:00,Support,CUST-12023,After the latest update, the payment succeeds but the order page doesn't refresh.,1
+FB-1141,2026-03-12 10:40:00,NPS,CUST-12024,Great selection of products and fast delivery overall!,5
+FB-1142,2026-03-12 16:10:00,App Review,CUST-12025,I've had two payment failures this week even though my bank approved the transaction.,1
+FB-1143,2026-03-13 11:15:00,Support,CUST-12026,Payment failed error 502 when using HDFC netbanking.,1
+FB-1144,2026-03-13 15:35:00,Survey,CUST-12027,Credit card transaction timed out during payment verification step.,2
+FB-1145,2026-03-14 09:20:00,App Review,CUST-12028,Double debited because payment failed screen showed retry.,1
+FB-1146,2026-03-14 14:05:00,Support,CUST-12029,GPay transaction failed twice in a row today.,1
+FB-1147,2026-03-15 10:50:00,NPS,CUST-12030,Smooth checkout experience today. Much better than last month.,4
+FB-1148,2026-03-15 16:25:00,App Review,CUST-12031,Money deducted from bank but order status shows payment pending.,1
+FB-1149,2026-03-16 11:30:00,Support,CUST-12032,Failed payment gateway popup pops up randomly on final confirmation.,2
+FB-1150,2026-03-16 15:45:00,Survey,CUST-12033,UPI payment keeps failing again and again.,1
+FB-1151,2026-03-17 09:15:00,App Review,CUST-12034,After the latest update, the payment succeeds but the order page doesn't refresh.,1
+FB-1152,2026-03-17 14:10:00,Support,CUST-12035,I've had two payment failures this week even though my bank approved the transaction.,1
+FB-1153,2026-03-18 10:35:00,NPS,CUST-12036,Pricing is reasonable compared to competitors.,4
+FB-1154,2026-03-18 16:00:00,App Review,CUST-12037,Payment failed error 502 when using HDFC netbanking.,1
+FB-1155,2026-03-19 11:20:00,Support,CUST-12038,Credit card transaction timed out during payment verification step.,2
+FB-1156,2026-03-19 15:30:00,Survey,CUST-12039,Double debited because payment failed screen showed retry.,1
+FB-1157,2026-03-20 09:40:00,App Review,CUST-12040,GPay transaction failed twice in a row today.,1
+FB-1158,2026-03-20 14:25:00,Support,CUST-12041,Money deducted from bank but order status shows payment pending.,1
+FB-1159,2026-03-21 10:15:00,NPS,CUST-12042,The checkout redesign is super smooth and intuitive.,4
+FB-1160,2026-03-21 16:15:00,App Review,CUST-12043,Failed payment gateway popup pops up randomly on final confirmation.,2
+FB-1161,2026-03-22 11:05:00,Support,CUST-12044,UPI payment keeps failing again and again.,1
+FB-1162,2026-03-22 15:40:00,Survey,CUST-12045,After the latest update, the payment succeeds but the order page doesn't refresh.,1
+FB-1163,2026-03-23 09:25:00,App Review,CUST-12046,I've had two payment failures this week even though my bank approved the transaction.,1
+FB-1164,2026-03-23 14:20:00,Support,CUST-12047,Payment failed error 502 when using HDFC netbanking.,1
+FB-1165,2026-03-24 10:50:00,NPS,CUST-12048,Password reset link was delivered instantly.,5
+FB-1166,2026-03-24 16:30:00,App Review,CUST-12049,Credit card transaction timed out during payment verification step.,2
+FB-1167,2026-03-25 11:15:00,Support,CUST-12050,Double debited because payment failed screen showed retry.,1
+FB-1168,2026-03-25 15:35:00,Survey,CUST-12051,GPay transaction failed twice in a row today.,1
+FB-1169,2026-03-26 09:30:00,App Review,CUST-12052,Money deducted from bank but order status shows payment pending.,1
+FB-1170,2026-03-26 14:15:00,Support,CUST-12053,Failed payment gateway popup pops up randomly on final confirmation.,2
+FB-1171,2026-03-27 10:40:00,NPS,CUST-12054,Super quick payment process, nice upgrade!,5
+FB-1172,2026-03-27 16:10:00,App Review,CUST-12055,UPI payment keeps failing again and again.,1
+FB-1173,2026-03-28 11:25:00,Support,CUST-12056,After the latest update, the payment succeeds but the order page doesn't refresh.,1
+FB-1174,2026-03-28 15:45:00,Survey,CUST-12057,I've had two payment failures this week even though my bank approved the transaction.,1
+FB-1175,2026-03-29 09:15:00,App Review,CUST-12058,Payment failed error 502 when using HDFC netbanking.,1
+FB-1176,2026-03-29 14:05:00,Support,CUST-12059,Credit card transaction timed out during payment verification step.,2
+FB-1177,2026-03-30 10:35:00,NPS,CUST-12060,Customer support team resolved my query quickly.,5
+FB-1178,2026-03-30 16:20:00,App Review,CUST-12061,Double debited because payment failed screen showed retry.,1
+FB-1179,2026-03-31 11:10:00,Support,CUST-12062,GPay transaction failed twice in a row today.,1
+FB-1180,2026-03-31 15:30:00,Survey,CUST-12063,Money deducted from bank but order status shows payment pending.,1

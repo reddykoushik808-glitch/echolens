@@ -1,0 +1,4 @@
+release_id,date,feature,description
+REL-101,2026-02-15,Checkout Redesign,Redesigned checkout flow to improve speed and simplify steps for mobile and web users
+REL-102,2026-03-01,Payment Gateway Update,Updated UPI and Netbanking payment gateway integration to support new bank protocols
+REL-103,2026-03-10,Mobile Patch v4.2,Released v4.2 mobile app patch for iOS and Android resolving notification and login bugs

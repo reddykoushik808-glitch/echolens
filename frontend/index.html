@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EchoLens — Customer feedback intelligence that remembers</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <style>
+        .hero-section {
+            max-width: 1200px;
+            margin: 40px auto 80px auto;
+            padding: 0 40px;
+            display: grid;
+            grid-template-columns: 1.1fr 1fr;
+            gap: 60px;
+            align-items: center;
+        }
+
+        .hero-eyebrow {
+            font-size: 0.82rem;
+            font-weight: 800;
+            letter-spacing: 0.12em;
+            color: var(--secondary-text);
+            margin-bottom: 16px;
+            text-transform: uppercase;
+        }
+
+        .hero-headline {
+            font-size: 3.4rem;
+            font-weight: 800;
+            line-height: 1.15;
+            color: var(--dark-text);
+            margin-bottom: 20px;
+            letter-spacing: -0.02em;
+        }
+
+        .hero-subtext {
+            font-size: 1.15rem;
+            color: var(--secondary-text);
+            line-height: 1.6;
+            margin-bottom: 36px;
+            max-width: 520px;
+        }
+
+        .hero-buttons {
+            display: flex;
+            gap: 16px;
+            align-items: center;
+        }
+
+        .hero-visual-card {
+            background-color: var(--surface);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-xl);
+            padding: 32px;
+            box-shadow: var(--shadow-lg);
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            background-image: radial-gradient(circle at top right, rgba(77, 139, 99, 0.05), transparent);
+        }
+
+        .hero-widget-row {
+            display: flex;
+            gap: 16px;
+        }
+
+        .mini-card {
+            background-color: #FAF5EE;
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-md);
+            padding: 16px;
+            flex: 1;
+        }
+
+        .mini-card-title {
+            font-size: 0.78rem;
+            font-weight: 700;
+            color: var(--secondary-text);
+            margin-bottom: 6px;
+        }
+
+        .mini-card-val {
+            font-size: 1.4rem;
+            font-weight: 800;
+            color: var(--dark-text);
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .quote-pill-card {
+            background-color: var(--surface);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-md);
+            padding: 16px 20px;
+            box-shadow: var(--shadow-sm);
+            display: flex;
+            gap: 12px;
+            align-items: flex-start;
+        }
+
+        .quote-avatar {
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            background-color: var(--orange-light);
+            color: var(--orange-accent);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 0.8rem;
+            flex-shrink: 0;
+        }
+
+        .quote-text {
+            font-size: 0.88rem;
+            font-weight: 600;
+            color: var(--dark-text);
+        }
+
+        .quote-meta {
+            font-size: 0.76rem;
+            color: var(--secondary-text);
+            margin-top: 4px;
+        }
+
+        .features-grid {
+            max-width: 1200px;
+            margin: 0 auto 100px auto;
+            padding: 0 40px;
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 28px;
+        }
+
+        .feature-card {
+            background-color: var(--surface);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-lg);
+            padding: 32px;
+            box-shadow: var(--shadow-sm);
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+        }
+
+        .feature-icon-box {
+            width: 46px;
+            height: 46px;
+            border-radius: var(--radius-md);
+            background-color: var(--primary-brown-light);
+            color: var(--primary-brown);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .feature-title {
+            font-size: 1.2rem;
+            font-weight: 800;
+            color: var(--dark-text);
+        }
+
+        .feature-desc {
+            font-size: 0.95rem;
+            color: var(--secondary-text);
+            line-height: 1.5;
+        }
+
+        .leaf-decoration {
+            position: absolute;
+            bottom: -30px;
+            right: -30px;
+            width: 120px;
+            opacity: 0.25;
+            pointer-events: none;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <header class="landing-header">
+        <a href="index.html" class="logo">
+            <svg class="logo-icon" viewBox="0 0 24 24">
+                <path d="M17 8C8 10 5.9 16.17 3.82 21.34L5.71 22l1-2.3A4.49 4.49 0 0 0 8 20c9 0 14-11 14-11M17 8A18.5 18.5 0 0 0 2 3c0 9 6.5 14.5 10 14.5"/>
+            </svg>
+            EchoLens
+        </a>
+        <nav class="nav-links">
+            <a href="#features">Features</a>
+            <a href="#how">How it works</a>
+            <a href="#pricing">Pricing</a>
+        </nav>
+        <div class="nav-actions">
+            <a href="login.html" class="btn btn-outline">Login</a>
+            <a href="upload.html" class="btn btn-primary">Get Started</a>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero-section">
+        <div class="hero-content">
+            <div class="hero-eyebrow">PRODUCT INTELLIGENCE</div>
+            <h1 class="hero-headline">Customer feedback<br>that remembers.</h1>
+            <p class="hero-subtext">Turn thousands of customer conversations into actionable product insights with an AI agent powered by long-term memory.</p>
+            <div class="hero-buttons">
+                <a href="upload.html" class="btn btn-primary" style="padding: 12px 28px; font-size: 1rem;">
+                    Get Started &rarr;
+                </a>
+                <a href="upload.html?demo=true" class="btn btn-secondary" style="padding: 12px 24px; font-size: 1rem;">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                    </svg>
+                    View Demo
+                </a>
+            </div>
+        </div>
+
+        <div class="hero-visual-card">
+            <div class="hero-widget-row">
+                <div class="mini-card">
+                    <div class="mini-card-title">Customer Sentiment</div>
+                    <div class="mini-card-val" style="color: var(--green-accent);">
+                        &uarr; 12%
+                        <svg width="60" height="24" viewBox="0 0 60 24" fill="none" stroke="var(--green-accent)" stroke-width="2">
+                            <path d="M2 18 Q 15 15, 30 10 T 58 4"/>
+                        </svg>
+                    </div>
+                </div>
+                <div class="mini-card">
+                    <div class="mini-card-title">Top Issue</div>
+                    <div class="mini-card-val" style="color: var(--orange-accent); font-size: 1.1rem;">
+                        Payment failures
+                        <span style="font-size: 0.85rem;" class="badge badge-orange">&uarr; 34%</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="quote-pill-card">
+                <div class="quote-avatar">💬</div>
+                <div>
+                    <div class="quote-text">"UPI payment keeps failing again and again."</div>
+                    <div class="quote-meta">App Review &bull; 2 days ago</div>
+                </div>
+            </div>
+
+            <!-- Subtle organic leaf artwork -->
+            <svg class="leaf-decoration" viewBox="0 0 100 100" fill="var(--primary-brown)">
+                <path d="M50,10 C70,30 90,60 50,90 C10,60 30,30 50,10 Z"/>
+            </svg>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features-grid" id="features">
+        <div class="feature-card">
+            <div class="feature-icon-box">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+                </svg>
+            </div>
+            <div class="feature-title">Remember</div>
+            <div class="feature-desc">Hindsight preserves customer context over time, keeping historical memory intact across releases.</div>
+        </div>
+
+        <div class="feature-card">
+            <div class="feature-icon-box">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <line x1="18" y1="20" x2="18" y2="10"></line>
+                    <line x1="12" y1="20" x2="12" y2="4"></line>
+                    <line x1="6" y1="20" x2="6" y2="14"></line>
+                </svg>
+            </div>
+            <div class="feature-title">Understand</div>
+            <div class="feature-desc">Analyze sentiment, themes, and emerging issues with deterministic local Python processing.</div>
+        </div>
+
+        <div class="feature-card">
+            <div class="feature-icon-box">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path>
+                    <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+                </svg>
+            </div>
+            <div class="feature-title">Connect</div>
+            <div class="feature-desc">Link feedback to product decisions and see what changed before and after key feature deployments.</div>
+        </div>
+    </section>
+
+</body>
+</html>
